@@ -1,0 +1,30 @@
+h1 {
+	color: #FF1493;
+	font-size: 100px;
+	/* line-height: 2px; */
+	/*padding-top: 0px; */
+	/*padding-left: 500px;*/
+}
+.verse {
+	color: #0000000;
+	font-size: 20px;
+	padding-bottom: 10px;	
+	padding-left: 1000px;
+}
+.solomid {
+	text-align: center;
+}
+.genius {
+	padding-left: 1000px;
+	color: #FF1493;
+	font-size: 30px;
+}
+body.background {
+	background-color: #87CEEB;
+}
+.verse-p1{
+	line-height: 10%;
+}
+.verse-p2{
+	padding-top: 10px;
+}
